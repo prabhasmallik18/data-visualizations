@@ -1,0 +1,37 @@
+✈️ Air Passengers Data Visualization using R
+
+📌 Objective
+
+The objective of this project is to analyze and visualize the Air Passengers dataset in R using a line chart to understand how the number of air passengers has increased over a given time period.
+
+📁 Dataset Information
+
+Dataset Name: Air Passengers
+Data Type: Time series data
+Time Period: 1949 to 1960
+Frequency: Monthly
+
+Description:
+This dataset contains the monthly total number of international airline passengers. It helps in understanding long-term trends and seasonal patterns in air travel.
+
+🛠️ Tools Used
+
+R Programming Language
+Built-in AirPassengers dataset in R
+
+📊 Visualization Description
+
+A line chart is used to represent the data.
+X-axis: Time period (years)
+Y-axis: Number of air passengers
+Each point represents passenger count for a month.
+
+📈 Observations
+
+Clear increasing trend over time.
+Seasonal peaks every year.
+Rapid growth after mid-1950s.
+
+✅ Conclusion
+
+Air passenger traffic steadily increased from 1949 to 1960 due to growth of aviation and seasonal demand.
